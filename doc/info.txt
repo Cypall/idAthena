@@ -1,0 +1,7 @@
+Forks from idathena trunk
+credit : https://github.com/idathena
+
+idAthena-9 : Support VS 2008 and VS 2010 Only
+idAthena-10 : Support VS 2010 and VS 2012 Only
+idAthena-12 : Support VS 2012 and VS 2013 Only
+idAthena-13 : Support VS 2013 Only
